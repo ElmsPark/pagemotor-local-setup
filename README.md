@@ -23,11 +23,19 @@ A one-click Mac app that installs everything you need to run PageMotor locally.
 
 Double-click the `.zip` file. You'll get a `PageMotor Local Setup.app` file.
 
-### 3. Open It
+### 3. Open It (Read This Part Carefully)
 
-**Right-click** the app and choose **Open** (not double-click).
+Your Mac will try to block this app because it wasn't downloaded from the App Store. This is normal and expected. Here's how to get past it:
 
-You'll see a warning that says the app is from an unidentified developer. Click **Open** again. This only happens the first time.
+1. **Double-click** the app. You'll see a scary warning saying Apple can't verify it. **Click Done.** (Do NOT click "Move to Bin.")
+2. Open **System Settings** (click the Apple menu in the top-left corner of your screen, then System Settings).
+3. Click **Privacy & Security** in the left sidebar.
+4. Scroll down. You'll see a message that says something like: *"PageMotor Local Setup.app" was blocked from use because it is not from an identified developer.*
+5. Click **Open Anyway**.
+6. Your Mac will ask for your password. Enter it.
+7. You'll see one more warning. Click **Open**.
+
+This only happens the first time. After that, the app opens normally.
 
 ### 4. Follow the Steps
 
